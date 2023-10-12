@@ -1,4 +1,5 @@
 #.gitignore
+pyshark/
 
 #virtual Environment
 virtual_environment
